@@ -13,30 +13,34 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-saxena-15a515329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trickswithaman183@gmail.com) 
 
 # 💻 Tech Stack:
-## 🚀 Tech Stack
 
+### 🚀 Core
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### 🧠 Architecture
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-009688?style=for-the-badge)
 
+### 🌐 Networking
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### 🧩 DI
 ![Koin](https://img.shields.io/badge/Koin-FF6F00?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
 
+### 🗄️ Backend & Tools
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🔧 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=trickswithaman&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=trickswithaman&theme=default&hide_border=false)<br/>
