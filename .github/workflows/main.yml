@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,12 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: trickswithaman
           outputs: dist/github-snake.svg
-        continue-on-error: true
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
