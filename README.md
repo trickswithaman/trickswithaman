@@ -47,6 +47,10 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 ![](https://streak-stats.demolab.com/?user=trickswithaman&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=trickswithaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐 &nbsp;`$ htop --activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trickswithaman&theme=react-dark&hide_border=true" width="100%"/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trickswithaman&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
@@ -58,6 +62,8 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 
 ## 🐍 Contribution Snake Animation
 ![snake gif](https://github.com/trickswithaman/trickswithaman/raw/output/github-snake.gif)
+
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=trickswithaman&icon=0&color=0)](https://visitcount.itsvg.in)
