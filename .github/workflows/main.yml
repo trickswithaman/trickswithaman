@@ -10,18 +10,13 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -29,18 +24,7 @@ jobs:
           github_user_name: trickswithaman
           outputs: dist/github-snake.svg
 
-      - name: Push to output branch
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git checkout -b output 2>/dev/null || git checkout output
-          mkdir -p dist
-          cp dist/github-snake.svg . 2>/dev/null || true
-          git add -A
-          git commit -m "Generate snake animation" || true
-          git push -u origin output
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
