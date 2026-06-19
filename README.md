@@ -46,7 +46,7 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trickswithaman&show_icons=true&cache_seconds=1800&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=trickswithaman&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=trickswithaman&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=trickswithaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 &nbsp;`$ htop --activity`
 
