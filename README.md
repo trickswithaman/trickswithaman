@@ -6,11 +6,11 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 
 
 # 💫 About Me:
-👋 Android Developer with 1.5+ years of experience building scalable and production-ready applications using Kotlin and Jetpack Compose.<br><br>🚀 Skilled in developing end-to-end features such as authentication, API integration, pagination, and real-time data handling across multiple applications.<br><br>💡 Strong focus on clean architecture (MVVM, MVI), modular code structure, and writing maintainable, testable code.<br><br>⚡ Experienced with modern Android and cross-platform technologies including Kotlin Multiplatform (KMP), Firebase, Ktor, and Retrofit.<br><br>📈 Continuously improving in system design, performance optimization, and building efficient, user-centric applications.
+👋 Android Developer with 1.5+ years of experience building scalable and production-ready applications using Kotlin and Jetpack Compose.<br><br>🚀 Skilled in developing end-to-end features such[...]
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-15a515329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trickswithaman183@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://trickswithaman.github.io/Aman_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saxena-15a515329/) [![email](https://img.shields.io/badge/Email-D1[...]
 
 
 # 💻 Tech Stack:
@@ -44,9 +44,9 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trickswithaman&show_icons=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trickswithaman&show_icons=true&cache_seconds=1800&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=trickswithaman&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=trickswithaman&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=trickswithaman&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 &nbsp;`$ htop --activity`
 
