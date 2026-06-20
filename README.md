@@ -44,6 +44,7 @@ Email Me 👉 ✉️ **trickswithaman183@gmail.com** For Collaboration/Project o
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=trickswithaman&show_icons=true&v=2)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trickswithaman&show_icons=true&rank_icon=github)<br/>
 ![](https://streak-stats.demolab.com/?user=trickswithaman&theme=default&hide_border=false)<br/>
